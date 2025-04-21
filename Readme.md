@@ -48,3 +48,7 @@
  - Gmail: nathanyilmaasrat@gmail.com
  - Telegram: [Natan Asrat](https://t.me/fail_your_way_to_success)
  - Youtube: [Natville](https://www.youtube.com/@natvilletutor)
+
+
+## Credit
+- Thank you [Nate Herk](https://www.youtube.com/@nateherk)!
